@@ -1,5 +1,5 @@
 <h1 align="center">📄 About Us</h1>
-Uniq team is a team currently working on the FiveM platform.We make quality and good scripts for you fivem server
+Uniq Team is a team currently working on the FiveM platform.We make quality and good scripts for you fivem server
 
 &nbsp;
 
